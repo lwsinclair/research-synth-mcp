@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/loadingbfx-research-synth-mcp-badge.png)](https://mseep.ai/app/loadingbfx-research-synth-mcp)
+
 # 🤖 Research-Synth-MCP: Multi-Agent Autonomous Research System
 
 ![Python](https://img.shields.io/badge/language-Python-blue)
